@@ -1,2 +1,2 @@
-# Python_Project_Basic
+# Tic_Tac_Toe_Game
 my 1st python project is in here......
